@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">homework48</string>
+
+    <string name="text1">Hello Kotlin!</string>
+    <string name="text2">Hello world!</string>
+    <string name="text3">Hello Java!</string>
+</resources>
